@@ -11,4 +11,4 @@ The control is then transferred to Journal_Retrieval.py to choose to list all pr
 
 read_journal reads existing journals
 write journal writes new journal
-check length of journal
+check_length_journal checks length of journal
